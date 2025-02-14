@@ -1073,6 +1073,7 @@
 - [Arbitrum Orbit](https://arbitrum.foundation/orbit) - Arbitrum Orbit helps to launch new chains within the Arbitrum ecosystem.
 - [Caldera](https://caldera.xyz/) - Launching high-performing Arbitrum Orbit and OP Stack rollups is made simple by Caldera, with the added benefit of customization options.
 - [Conduit](https://conduit.xyz/) - Start your own production-ready OP stack rollup quickly and easily on the self-serve RaaS platform.
+- [Zeeve](https://www.zeeve.io/) - Build and scale powerful web3 applications at a fraction of the cost with our Rollups-as-a-Service platform.
 
 ### Shared Sequencers
 - [Espresso Sequencer](https://www.espressosys.com/) - Share a sequencer to have a more reliable and fair system, improve compatibility, and align with Ethereum.
