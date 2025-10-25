@@ -756,6 +756,7 @@
 - [OpenZeppelin Gas Station Network](https://opengsn.org/) - Enjoy seamless transactions between clients and Ethereum smart contracts without the need for gas.
 - [Tenderly Gas Profiler](https://tenderly.co/) - With Tenderly's Gas Profiler, you can easily analyze the gas consumption of a function during a transaction.
 - [fees.wtf](https://fees.wtf/#/) - Find out how much you've spent on gas with the amount converted to USD, plus the tokens used.
+- [EthGasOptimizer (EGO)](https://ethgasoptimizer.com) - Smart Ethereum gas optimizer that predicts low-fee windows, schedules transactions, and sends real-time gas alerts to help users save on fees.
 
 ### Hardware Wallets
 - [D’CENT](https://dcentwallet.com/?lang=en) - At D'CENT, you can find hardware wallets that use fingerprint and card for secure storage.
