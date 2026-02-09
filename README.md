@@ -387,6 +387,7 @@
 - [SOURC3](https://www.sourc3.xyz/) - SOURC3 is a platform that manages reputation on the blockchain using Web3 technology.
 - [SourceCred](https://sourcecred.io/docs/) - SourceCred is a handy tool that rewards community members for their contributions.
 - [Underdog Protocol](https://www.underdogprotocol.com/) - Underdog helps developers and projects seamlessly incorporate dynamic NFTs into any product or workflow.
+- [Chitin](https://chitin.id/) - On-chain reputation and identity infrastructure for AI agents. Soulbound Tokens as non-transferable birth certificates, verifiable certificates, World ID owner attestation, and reputation-weighted governance. Built on Base L2. ([GitHub](https://github.com/Tiida-Tech/chitin-contracts))
 
 ### Dapp Templates
 - [Create Web3 dApp](https://createweb3dapp.alchemy.com/) - Build a decentralized application using just one npx package in just 2 minutes.
