@@ -155,6 +155,7 @@
 ### Analytics Tools
 - [APY Vision](https://apy.vision/) - APY.vision helps DeFi investors and protocols keep track of their gains from liquidity pools and assess the impact of impermanent loss.
 - [Chaincrunch](https://chaincrunch.cc/) - Analyze data on Solana's blockchain.
+- [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
 - [Coin Particle](https://www.coinparticle.com) - Coin Particle is a tool that helps analyze and visualize data.
 - [CoinBrain](https://coinbrain.com) - Get instant updates and insights on cryptocurrency markets and trends in real-time.
 - [CoinMetrics](https://coinmetrics.io/) - Coin Metrics provides research tools for cryptocurrency industry analysis, including data on market trends, network activity, and financial statistics.
