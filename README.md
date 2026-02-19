@@ -330,6 +330,7 @@
 - [Step Finance](https://www.step.finance/) - Easily manage transactions on Solana using one dashboard for visualization, analysis, aggregation, and execution.
 - [Treehouse](https://www.treehouse.finance/) - Get a digital assets manager that shows you a clear picture of all your DeFi positions.
 - [Zapper](https://zapper.fi/) - Discover and explore new possibilities in NFTs, DAOs, and DeFi.
+- [Octav](https://octav.fi/api) - Multi-chain crypto portfolio tracking API. Track wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains.
 
 ### Crypto Tax Tools
 - [Awaken Tax](https://awaken.tax) - Introducing the very first tax software designed specifically for web3.
