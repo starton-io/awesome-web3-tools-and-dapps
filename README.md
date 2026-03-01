@@ -338,6 +338,7 @@
 
 ### Crypto Trading Tools
 - [DustSweeper](https://www.dustsweeper.xyz/) - Easily convert leftover small amounts of tokens into ETH with low transaction costs.
+- [DeFi Trading API](https://agent-gateway-kappa.vercel.app/api/services/defi-trading) - Perpetual futures trading API powered by Hyperliquid. 275+ markets, real-time prices, L2 orderbooks, candles, funding rates, and account data. Free tier available, pay with USDC for unlimited access.
 
 ### Custody Solutions
 - [Anchorage Digital](https://www.anchorage.com/) - A safe system to manage digital assets for traders, holders, and compliance purposes.
@@ -1250,6 +1251,7 @@
 - [CoinMarketCap API](https://coinmarketcap.com/api/) - Need a reliable cryptocurrency API for all your crypto data needs? Look no further than the CoinMarketCap API, designed specifically for enterprise-grade use.
 - [Coincap](https://coincap.io/) - Stay up to date with live cryptocurrency market information and easily keep track of your altcoin portfolio.
 - [Coinlayer](https://coinlayer.com/documentation) - Get up-to-date information on cryptocurrency token prices from over 25 exchanges and 385 coins worldwide in real-time.
+- [Free Crypto Price API](https://crypto-price-landing.vercel.app) - Real-time mid prices for 275+ perpetual futures assets via Hyperliquid DEX. No API key required, no rate limit on the free tier. Simple JSON output.
 
 ### Transaction Tools
 - [EthTx](https://ethtx.info/) - Decode Ethereum transactions on both the Mainnet and Testnet with Token Flow.
