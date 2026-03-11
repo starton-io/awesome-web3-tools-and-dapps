@@ -1140,6 +1140,7 @@
 ### Smart Contract Wallets
 - [Argent](https://www.argent.xyz/) - Argent is a type of wallet that can be used with Ethereum. It helps to simplify account management.
 - [Candide](https://docs.candidewallet.com/) - Candide is a clever digital wallet that utilizes Account Abstraction technology.
+- [Finance District Agent Wallet](https://developers.fd.xyz/agent-wallet/overview) - AI-native non-custodial wallet infrastructure with ERC-4337 account abstraction. AI agents can hold stablecoins, send, swap, earn yield, and pay merchants via MCP, CLI, or conversational AI.
 - [Castle](https://castle.link/) - The wallet that will last forever.
 - [Obvious](https://obvious.technology/) - Obvious is a wallet for your phone that lets you easily send and receive crypto.
 - [Safe](https://safe.global/) - Safe is a special kind of wallet called a smart contract wallet, which only allows a transaction to go through if a certain number of people approve it.
@@ -1457,6 +1458,7 @@
 ### Web3 Payment Tools
 - [Cask](https://www.cask.fi) - Cask is a system that handles money flows on the web without relying on a central authority.
 - [Lightning Network](https://github.com/lightningnetwork/lnd) - This network is decentralized and uses smart agreements to make Bitcoin payments happen instantly.
+- [Finance District Prism](https://developers.fd.xyz/prism/overview) - Payment gateway purpose-built for agentic commerce — enables merchants to accept payments from AI shopping agents with instant stablecoin settlement and zero chargebacks via x402, ACP, and UCP protocols.
 - [Loop Crypto](https://www.loopcrypto.xyz/) - Our exclusive autopay feature doesn't require funds locking or any withdrawals. Enjoy true autopay without any hassles.
 - [Paper](https://withpaper.com) - Buying NFTs and creating wallets is made simple with credit cards and email addresses on Paper.
 - [Ponto](https://ponto.org/) - Get the necessary financial framework for managing digital assets.
