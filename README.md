@@ -1350,6 +1350,7 @@
 - [Coherent](https://coherent.xyz/) - Coherent offers APIs for creating user-friendly decentralized applications (DApps).
 - [CryptoQuant](https://cryptoquant.com/) - CryptoQuant is a trusted company that offers on-chain data analytics.
 - [Flipside](https://docs.flipsidecrypto.com/) - Flipside allows users from the community to easily create and share data insights about the crypto projects they love.
+- [GoldRush](https://goldrush.dev) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - [Hatchfi](https://www.hatchfi.co/) - Hatchfi is a tool that gathers data on wallet transactions and links functions across various chains.
 - [PARSIQ](https://parsiq.net/) - PARSIQ is a service that provides real-time data streams, analysis, and decentralized storage.
 - [Pentacle](https://pentacle.xyz) - Pentacle allows you to study protocols, focusing on security, reputation, and relationships.
