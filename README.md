@@ -752,6 +752,7 @@
 - [DeFi Tools](https://github.com/gauss314/defi) - Our DeFi tool suite provides various features such as calculators to determine impermanent loss, as well as strategies for staking and farming.
 - [Ethereum Gas Reporter](https://github.com/cgewecke/eth-gas-reporter) - Introducing Mocha reporter: a handy tool that measures gas usage per unit test and calculates average gas usage per method call.
 - [GasHawk](https://gashawk.io/#/) - GasHawk allows you to save up to 95% on ETH transaction fees without any charges or needing a third party to hold your funds.
+- [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
 - [L2 Optimizoooors](https://github.com/ScopeLift/l2-optimizoooors) - Choose from our selection of gas efficient call data routers designed specifically for 3 L2 networks: Aave, Connext, and Superfluid.
 - [OpenZeppelin Gas Station Network](https://opengsn.org/) - Enjoy seamless transactions between clients and Ethereum smart contracts without the need for gas.
 - [Tenderly Gas Profiler](https://tenderly.co/) - With Tenderly's Gas Profiler, you can easily analyze the gas consumption of a function during a transaction.
