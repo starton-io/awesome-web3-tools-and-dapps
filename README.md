@@ -183,6 +183,7 @@
 - [Token Metrics](https://tokenmetrics.com/) - Discover a cutting-edge crypto research platform that uses advanced AI technology to transform data into valuable investment advice.
 - [Zero Hash](https://zerohash.com/) - Settlement Utility is an API-based ecosystem of trading tools.
 
+- [Arch Tools](https://archtools.dev) - 61 production-ready AI tools API with native x402 USDC micropayments on Base, Polygon, Avalanche, and Solana. Includes code analysis, web scraping, image generation, NLP, crypto pricing, and search. REST API + MCP protocol.
 ### Assemblers
 - [EVM Toolkit](https://quilt.github.io/etk/) - Discover powerful tools that allow you to easily create and analyze smart contract programs on the Ethereum Virtual Machine.
 - [Python EVM Assembler](https://github.com/crytic/pyevmasm) - The EVM disassembler and assembler is a tool for interpreting and creating Ethereum Virtual Machine code.
