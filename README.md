@@ -524,6 +524,7 @@
 - [Slingshot](https://slingshot.finance/) - This is a well-liked swapping protocol on the Ethereum network that doesn't charge any fees.
 - [Soldex](https://soldex.ai/) - A decentralized exchange built specifically for Solana.
 - [Sushi](https://www.sushi.com/) - We are the top choice for trading different types of cryptocurrency tokens on a decentralized exchange platform.
+- [SwapAPI](https://swapapi.dev/) - SwapAPI is a free DEX aggregator API that returns executable swap calldata across 46 EVM chains, with no API key required.
 - [Uniswap](https://uniswap.org/) - Uniswap is the original DEX on Ethereum that allows you to swap ERC-20 tokens using liquidity pools.
 - [Velodrome](https://app.velodrome.finance/) - Experience the power of decentralized finance on the cutting-edge Optimism platform with our revolutionary DeFi protocol.
 - [dYdX](https://dydx.exchange/) - dYdX is a decentralized exchange on the Ethereum blockchain that allows you to trade instantly, continuously, and with borrowed funds.
