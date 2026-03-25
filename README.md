@@ -1488,6 +1488,7 @@
 - [Paradigm CTF](https://ctf.paradigm.xyz/) - Join Paradigm CTF, an exciting online competition created for hackers specializing in smart contracts.
 
 ### Web3 Social Media Dapps
+- [链新社](https://www.lianxinshe666.com) 一站式区块链资讯与数据平台，覆盖比特币、以太坊、DeFi、Web3、NFT 等领域的中文新闻媒体
 - [Arcade2Earn](https://www.arcade2earn.io/) - Arcade is a platform for playing games and earning tokens through metaverse games.
 - [Bluesky](https://blueskyweb.org/) - Bluesky is working on making a web3-based internet by developing the AT Protocol.
 - [Context](https://context.app/trending) - Context helps NFT traders easily see what influencers are doing with their wallets.
