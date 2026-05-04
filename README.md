@@ -1572,3 +1572,5 @@ Please adhere to Starton's [Code of Conduct](./CODE_OF_CONDUCT.md).
 ## Authors
 
 - Starton [support@starton.com](mailto:support@starton.com)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) — Web3 CLOB exchange + prediction markets on Base L2. Pre-launch TGE token swaps, on-chain settlement, A2A agent protocol, MCP server for AI integration. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) | [Agent Card](https://cymetica.com/.well-known/agent.json) | [MCP](https://cymetica.com/.well-known/mcp.json)
