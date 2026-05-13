@@ -180,6 +180,7 @@
 - [Parsec Finance](https://parsec.finance/) - Parsec Finance is a helpful platform that supports users in analyzing DeFi and NFT Pro activities.
 - [Plex](https://www.plexlabs.io/) - Plex is an online marketing technology platform.
 - [Santiment](https://santiment.net/) - Discover the best market information for over 2,500 cryptocurrencies using this platform, which includes on-chain and social metrics.
+- [Sharpe](https://www.sharpe.ai) - Crypto market intelligence for derivatives positioning, DEX flow, arbitrage, narratives, exchange listings, and news.
 - [Token Metrics](https://tokenmetrics.com/) - Discover a cutting-edge crypto research platform that uses advanced AI technology to transform data into valuable investment advice.
 - [Zero Hash](https://zerohash.com/) - Settlement Utility is an API-based ecosystem of trading tools.
 
