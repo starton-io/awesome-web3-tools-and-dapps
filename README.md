@@ -132,6 +132,9 @@
 
 ## dApps directory
 
+- [TruthLayer](https://github.com/miraekims/Truthlayer) — Open-source Web3 reputation layer for Crypto Twitter. Multi-chain (ETH, SOL, Base, Arbitrum, BNB) wallet verification through SIWE/SIWS. Chrome extension + Postgres-backed identity graph.
+
+
 ### AAA Web3 Games
 - [Delysium](https://www.delysium.com/) - Delysium is a high-quality web3 game that you can actually play.
 - [Heroic Story](https://www.heroicstory.com/) - Discover an exciting tabletop role-playing game that offers 12 unique character classes and a vast, ever-expanding world to explore for free.
