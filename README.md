@@ -333,6 +333,7 @@
 
 ### Crypto Tax Tools
 - [Awaken Tax](https://awaken.tax) - Introducing the very first tax software designed specifically for web3.
+- [ChainFolio](https://chainfolio-lovat.vercel.app) - Instant Ethereum tax reports with FIFO cost-basis P&L. $10 one-time, no account required.
 - [CoinLedger](https://coinledger.io) - Our cryptocurrency and NFT tax software is reliable and easy to use.
 - [Recap](https://recap.io/en-US) - Recap is an app for calculating crypto taxes with a focus on privacy.
 
