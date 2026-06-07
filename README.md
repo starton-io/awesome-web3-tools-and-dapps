@@ -1402,6 +1402,7 @@
 - [Alien Worlds](https://alienworlds.io/) - Alien Worlds is a video game set in a science fiction fantasy world. Players use special items called NFTs within the game to complete missions.
 - [Aurory](https://aurory.io/) - Aurory is an exciting Japanese role playing game on Solana that allows players to earn rewards by playing.
 - [Axie Infinity](https://axieinfinity.com/) - Axie Infinity is a game where you can battle monsters, and it is based on Nintendo's Pokémon series. It uses blockchain technology.
+- [Block Lottos](https://blocklottos.com/games) - Block Lottos is a Polygon and Base blockchain lottery game with user-signed ticket transactions and transparent weekly on-chain draws.
 - [Crabada](https://www.crabada.com/) - Crabada is a highly popular game on Avalanche where you can earn rewards by playing and it's all about exciting undersea adventures.
 - [CryptoKitties](https://www.cryptokitties.co/) - CryptoKitties is a game on Ethereum where you can collect, trade, and breed cats that are non-fungible tokens (NFTs).
 - [DeFi Kingdoms](https://defikingdoms.com/) - Defi Kingdoms is a big game on Harmony blockchain that tries to make decentralized finance more fun.
