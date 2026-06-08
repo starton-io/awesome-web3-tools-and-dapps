@@ -1340,6 +1340,7 @@
 - [Repute X](https://reputex.io/) - The ReputeX Score lets you know how reliable and trustworthy someone is based on their creditworthiness and on-chain actions.
 - [RociFi](https://roci.fi/) - RociFi is a credit protocol that does not require a lot of collateral.
 - [Spectral Finance](https://www.spectral.finance/) - Spectral Finance is a tool that helps evaluate credit and make on-chain capital usage more effective.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for Solana AI agent wallets using x402 micropayment verification. Score autonomous agents by their on-chain payment history before interacting with them.
 
 ### Web3 Data Tools
 - [Acentrik](https://acentrik.io/) - Find a platform where you can exchange private data in a secure way.
