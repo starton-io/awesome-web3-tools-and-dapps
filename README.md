@@ -468,6 +468,7 @@
 - [GMX](https://gmx.io/#/) - GMX is a platform where you can easily trade without relying on a central authority.
 - [HXRO](https://hxro.trade/) - HXRO is a platform where you can trade options.
 - [Hakka Finance](https://hakka.finance/) - A protocol on the blockchain for financial services.
+- [HyperTradeWorx](https://hypertradeworx.xyz) - A self-custody mobile app that routes perpetual trades across Hyperliquid, Lighter, GRVT, Aster, GMX, and Ostium from one account.
 - [Perpetual Protocol](https://perp.com/) - A flexible way to trade perpetual futures.
 - [Pika Protocol](https://www.pikaprotocol.com/) - A protocol that constantly swaps.
 - [Proxy](https://proxidefi.com/) - A protocol that allows for trading across multiple chains.
