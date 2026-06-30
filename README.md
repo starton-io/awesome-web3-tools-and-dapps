@@ -181,6 +181,7 @@
 - [Plex](https://www.plexlabs.io/) - Plex is an online marketing technology platform.
 - [Santiment](https://santiment.net/) - Discover the best market information for over 2,500 cryptocurrencies using this platform, which includes on-chain and social metrics.
 - [Token Metrics](https://tokenmetrics.com/) - Discover a cutting-edge crypto research platform that uses advanced AI technology to transform data into valuable investment advice.
+- [VaultVision](https://vaultvision.tech/hyperliquid-vault-scanner) - A Hyperliquid vault scanner for rankings, risk scores, drawdown, TVL, deposit status, alerts, and vault research workflows.
 - [Zero Hash](https://zerohash.com/) - Settlement Utility is an API-based ecosystem of trading tools.
 
 ### Assemblers
