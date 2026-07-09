@@ -462,6 +462,7 @@
 - [BarnBridge](https://barnbridge.com/) - BarnBridge is a DeFi protocol that helps users exchange interest rates while managing risk.
 - [Cope](https://unlimitedcope.com/) - Cope is an application on Solana that combines gaming and finance in a decentralized way.
 - [Deri Protocol](https://deri.io/) - Choose Deri for your future options!
+- [Dexly](https://dexly.trade/) - A self-custodial mobile app for trading Hyperliquid perpetuals, spot, tokenized stocks and prediction markets, with copy trading.
 - [Drift](https://www.drift.trade/) - A trading protocol powered by Solana that operates in a decentralized manner.
 - [Erasure](https://erasure.world/) - A clear and helpful set of rules for sharing information.
 - [FutureSwap](https://www.futureswap.com/) - A trading protocol that allows for leveraged trading without a central authority.
