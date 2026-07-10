@@ -155,13 +155,22 @@
 ### Analytics Tools
 - [APY Vision](https://apy.vision/) - APY.vision helps DeFi investors and protocols keep track of their gains from liquidity pools and assess the impact of impermanent loss.
 - [Chaincrunch](https://chaincrunch.cc/) - Analyze data on Solana's blockchain.
+- [Churn Calculator](https://formo.so/tools/churn-calculator) - Calculate wallet churn and understand how many users you lose over time.
 - [Coin Particle](https://www.coinparticle.com) - Coin Particle is a tool that helps analyze and visualize data.
 - [CoinBrain](https://coinbrain.com) - Get instant updates and insights on cryptocurrency markets and trends in real-time.
 - [CoinMetrics](https://coinmetrics.io/) - Coin Metrics provides research tools for cryptocurrency industry analysis, including data on market trends, network activity, and financial statistics.
 - [Coinalyze](https://coinalyze.net/) - Get deeper insights with our cutting-edge platform for analyzing cryptocurrencies.
+- [Cost per Wallet Calculator (CAC)](https://formo.so/tools/cost-per-wallet-calculator) - Determine acquisition cost per wallet and LTV-to-CAC ratio.
+- [Crypto A/B Test Calculator](https://formo.so/tools/ab-test-calculator) - Calculate statistical significance and uplift between two conversion rate variants.
+- [Crypto Bounce Rate Calculator](https://formo.so/tools/bounce-rate-calculator) - Calculate wallet bounce rate and activation rate between wallet connect and first transaction.
+- [Crypto Campaign CTR Calculator](https://formo.so/tools/ctr-calculator) - Measure click-through rate from impressions and clicks for campaigns.
+- [Crypto Conversion Rate Calculator](https://formo.so/tools/conversion-calculator) - Calculate visitor-to-wallet and connect-to-transaction conversion rates for your crypto funnel.
+- [Crypto Retention Rate Calculator](https://formo.so/tools/retention-calculator) - Calculate wallet retention and churn rate for your crypto app's active cohorts.
+- [Crypto Traffic Value Calculator](https://formo.so/tools/traffic-value-calculator) - Estimate paid-equivalent value of organic wallet traffic.
 - [DEX Screener](https://dexscreener.com/) - Discover DEX Screener, a powerful platform that displays the prices of pairs on decentralized exchange platforms.
 - [DEXGuru](https://dex.guru/) - Discover a trading platform that combines decentralized exchange token insights and analytics in one convenient interface.
 - [DEXTools](https://www.dextools.io/) - A platform for traders that provides tools to analyze data and exchange cryptocurrencies without a centralized authority.
+- [DeFi Campaign ROI Calculator](https://formo.so/tools/defi-campaign-roi-calculator) - Measure ROI, ROAS, cost per wallet, and onchain conversion metrics for DeFi campaigns.
 - [DeFi Prime](https://defiprime.com/defi-analytics) - At Defi Prime, we offer analytical and digital media services specifically tailored for the DeFi community.
 - [DeFi Pulse](https://www.defipulse.com/) - Find the most up-to-date analytics and rankings of DeFi protocols on DeFi Pulse.
 - [DeFi Rate](https://defirate.com/) - Discover and choose the top cryptocurrency apps for your web 3.0 adventure.
@@ -179,8 +188,12 @@
 - [OpenBB](https://openbb.co/) - Discover a Python terminal that combines data science and machine learning to enhance trading research.
 - [Parsec Finance](https://parsec.finance/) - Parsec Finance is a helpful platform that supports users in analyzing DeFi and NFT Pro activities.
 - [Plex](https://www.plexlabs.io/) - Plex is an online marketing technology platform.
+- [ROI Calculator](https://formo.so/tools/roi-calculator) - Estimate wallet acquisition expenses, revenue per wallet, and marketing returns.
 - [Santiment](https://santiment.net/) - Discover the best market information for over 2,500 cryptocurrencies using this platform, which includes on-chain and social metrics.
 - [Token Metrics](https://tokenmetrics.com/) - Discover a cutting-edge crypto research platform that uses advanced AI technology to transform data into valuable investment advice.
+- [Tracking Plan Generator](https://formo.so/tools/tracking-plan-generator) - Generate an install-ready event taxonomy for DeFi apps, wallets, and onchain products.
+- [UTM Generator](https://formo.so/tools/utm-generator) - Generate campaign links with source, medium, campaign, term, and content parameters for web3 acquisition.
+- [Wallet Lifetime Value Calculator](https://formo.so/tools/ltv-calculator) - Compute lifetime value per wallet using revenue, lifespan, and margin data.
 - [Zero Hash](https://zerohash.com/) - Settlement Utility is an API-based ecosystem of trading tools.
 
 ### Assemblers
@@ -705,15 +718,19 @@
 - [evmdasm](https://github.com/ethereum/evmdasm) - This library is designed to manage and manipulate Ethereum EVM bytecode instructions. It helps to disassemble and analyze the code.
 
 ### EVM Tools
+- [Address Checksum](https://formo.so/tools/address-checksum) - Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
 - [ApeWorx EVM](https://github.com/ApeWorX/evm) - This is a version of Ethereum Virtual Machine made with Rust programming language.
+- [Builder Codes](https://formo.so/tools/builder-codes) - Encode, decode, and validate ERC-8021 builder codes for onchain transaction attribution.
 - [EVM2](https://github.com/hananbeer/evm2) - (e=vm'2) evm2 is an evm that runs within the Go-Ethereum native evm.
 - [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Get ready to effortlessly handle Ethereum block data with these Python scripts designed specifically for extraction, transformation, and loading tasks.
 - [Huff Virtual Machine](https://github.com/oguimbal/HyVM) - The Ethereum Virtual Machine (EVM) Hypervisor allows for the execution of any type of EVM Bytecode.
 - [KEVM](https://github.com/runtimeverification/evm-semantics) - A version of the Ethereum Virtual Machine (EVM) with K semantics.
 - [Solvm](https://github.com/brockelmore/solvm#readme) - A simplified version of Ethereum Virtual Machine created with Yul and Solidity.
+- [Wei Converter](https://formo.so/tools/wei-converter) - Convert between Wei, Gwei, and ETH without manual calculations.
 
 ### Ethereum Signature Tools
 - [4Byte](https://www.4byte.directory/) - Discover Ethereum four-byte signatures easily with Snake Charmers.
+- [Calldata Decoder](https://formo.so/tools/calldata-decoder) - Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
 - [Ethereum Signature Database](https://sig.eth.samczsun.com) - A database that is freely available for searching and submitting Ethereum signatures.
 - [Etherface](https://github.com/volsa/etherface#readme) - Discover a signature database packed with source links to explore. It gathers information from various sources like GitHub and Etherscan.
 - [ethsign](https://github.com/dapphub/dapptools/blob/master/src/ethsign/README.md) - This tool allows you to sign Ethereum transactions using a local Keystore or hardware wallet.
@@ -1303,6 +1320,7 @@
 - [Lit](https://litprotocol.com/) - Lit Protocol is a network that helps manage keys in a decentralized way using threshold cryptography.
 - [Picket API](https://picketapi.com/) - The Picket API is an API that helps authenticate Web3 wallets.
 - [Privy](https://www.privy.io/) - Get all your users on board with web3 effortlessly using a user-friendly and reliable library.
+- [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum) - Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
 - [SlashAuth](https://www.slashauth.com/) - SlashAuth is a tool that helps you log in to decentralized applications on the Web3 platform.
 
 ### Web3 Bridges
