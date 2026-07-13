@@ -170,6 +170,7 @@
 - [Delphi Digital](https://delphidigital.io/) - Delphi Digital offers professional analysis for businesses and investors interested in the digital asset market.
 - [Dune Analytics](https://dune.com/home) - Dune analytics is a platform that offers analytics for blockchain ecosystems.
 - [Ellisense](https://www.ellisense.com/) - Ellisense supports traders in making smarter choices when investing in foreign exchange (FX), cryptocurrencies, and stocks.
+- [Formo](https://formo.so/) - Wallet-based product analytics and onchain attribution platform for crypto and DeFi apps.
 - [L2BEAT](https://l2beat.com/scaling/tvl/) - L2BEAT is a website that provides information and research about how Ethereum scales using layer 2 technology.
 - [Laevitas](https://www.laevitas.ch/) - Get precise data for analyzing and trading cryptocurrency.
 - [LunarCrush](https://lunarcrush.com/) - LunarCrush is a platform that helps you understand and keep track of Crypto, NFTs, and Stocks on social media.
@@ -705,15 +706,19 @@
 - [evmdasm](https://github.com/ethereum/evmdasm) - This library is designed to manage and manipulate Ethereum EVM bytecode instructions. It helps to disassemble and analyze the code.
 
 ### EVM Tools
+- [Address Checksum](https://formo.so/tools/address-checksum) - Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
 - [ApeWorx EVM](https://github.com/ApeWorX/evm) - This is a version of Ethereum Virtual Machine made with Rust programming language.
+- [Builder Codes](https://formo.so/tools/builder-codes) - Encode, decode, and validate ERC-8021 builder codes for onchain transaction attribution.
 - [EVM2](https://github.com/hananbeer/evm2) - (e=vm'2) evm2 is an evm that runs within the Go-Ethereum native evm.
 - [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Get ready to effortlessly handle Ethereum block data with these Python scripts designed specifically for extraction, transformation, and loading tasks.
 - [Huff Virtual Machine](https://github.com/oguimbal/HyVM) - The Ethereum Virtual Machine (EVM) Hypervisor allows for the execution of any type of EVM Bytecode.
 - [KEVM](https://github.com/runtimeverification/evm-semantics) - A version of the Ethereum Virtual Machine (EVM) with K semantics.
 - [Solvm](https://github.com/brockelmore/solvm#readme) - A simplified version of Ethereum Virtual Machine created with Yul and Solidity.
+- [Wei Converter](https://formo.so/tools/wei-converter) - Convert between Wei, Gwei, and ETH without manual calculations.
 
 ### Ethereum Signature Tools
 - [4Byte](https://www.4byte.directory/) - Discover Ethereum four-byte signatures easily with Snake Charmers.
+- [Calldata Decoder](https://formo.so/tools/calldata-decoder) - Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
 - [Ethereum Signature Database](https://sig.eth.samczsun.com) - A database that is freely available for searching and submitting Ethereum signatures.
 - [Etherface](https://github.com/volsa/etherface#readme) - Discover a signature database packed with source links to explore. It gathers information from various sources like GitHub and Etherscan.
 - [ethsign](https://github.com/dapphub/dapptools/blob/master/src/ethsign/README.md) - This tool allows you to sign Ethereum transactions using a local Keystore or hardware wallet.
@@ -1303,6 +1308,7 @@
 - [Lit](https://litprotocol.com/) - Lit Protocol is a network that helps manage keys in a decentralized way using threshold cryptography.
 - [Picket API](https://picketapi.com/) - The Picket API is an API that helps authenticate Web3 wallets.
 - [Privy](https://www.privy.io/) - Get all your users on board with web3 effortlessly using a user-friendly and reliable library.
+- [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum) - Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
 - [SlashAuth](https://www.slashauth.com/) - SlashAuth is a tool that helps you log in to decentralized applications on the Web3 platform.
 
 ### Web3 Bridges
