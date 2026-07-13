@@ -155,22 +155,13 @@
 ### Analytics Tools
 - [APY Vision](https://apy.vision/) - APY.vision helps DeFi investors and protocols keep track of their gains from liquidity pools and assess the impact of impermanent loss.
 - [Chaincrunch](https://chaincrunch.cc/) - Analyze data on Solana's blockchain.
-- [Churn Calculator](https://formo.so/tools/churn-calculator) - Calculate wallet churn and understand how many users you lose over time.
 - [Coin Particle](https://www.coinparticle.com) - Coin Particle is a tool that helps analyze and visualize data.
 - [CoinBrain](https://coinbrain.com) - Get instant updates and insights on cryptocurrency markets and trends in real-time.
 - [CoinMetrics](https://coinmetrics.io/) - Coin Metrics provides research tools for cryptocurrency industry analysis, including data on market trends, network activity, and financial statistics.
 - [Coinalyze](https://coinalyze.net/) - Get deeper insights with our cutting-edge platform for analyzing cryptocurrencies.
-- [Cost per Wallet Calculator (CAC)](https://formo.so/tools/cost-per-wallet-calculator) - Determine acquisition cost per wallet and LTV-to-CAC ratio.
-- [Crypto A/B Test Calculator](https://formo.so/tools/ab-test-calculator) - Calculate statistical significance and uplift between two conversion rate variants.
-- [Crypto Bounce Rate Calculator](https://formo.so/tools/bounce-rate-calculator) - Calculate wallet bounce rate and activation rate between wallet connect and first transaction.
-- [Crypto Campaign CTR Calculator](https://formo.so/tools/ctr-calculator) - Measure click-through rate from impressions and clicks for campaigns.
-- [Crypto Conversion Rate Calculator](https://formo.so/tools/conversion-calculator) - Calculate visitor-to-wallet and connect-to-transaction conversion rates for your crypto funnel.
-- [Crypto Retention Rate Calculator](https://formo.so/tools/retention-calculator) - Calculate wallet retention and churn rate for your crypto app's active cohorts.
-- [Crypto Traffic Value Calculator](https://formo.so/tools/traffic-value-calculator) - Estimate paid-equivalent value of organic wallet traffic.
 - [DEX Screener](https://dexscreener.com/) - Discover DEX Screener, a powerful platform that displays the prices of pairs on decentralized exchange platforms.
 - [DEXGuru](https://dex.guru/) - Discover a trading platform that combines decentralized exchange token insights and analytics in one convenient interface.
 - [DEXTools](https://www.dextools.io/) - A platform for traders that provides tools to analyze data and exchange cryptocurrencies without a centralized authority.
-- [DeFi Campaign ROI Calculator](https://formo.so/tools/defi-campaign-roi-calculator) - Measure ROI, ROAS, cost per wallet, and onchain conversion metrics for DeFi campaigns.
 - [DeFi Prime](https://defiprime.com/defi-analytics) - At Defi Prime, we offer analytical and digital media services specifically tailored for the DeFi community.
 - [DeFi Pulse](https://www.defipulse.com/) - Find the most up-to-date analytics and rankings of DeFi protocols on DeFi Pulse.
 - [DeFi Rate](https://defirate.com/) - Discover and choose the top cryptocurrency apps for your web 3.0 adventure.
@@ -179,6 +170,7 @@
 - [Delphi Digital](https://delphidigital.io/) - Delphi Digital offers professional analysis for businesses and investors interested in the digital asset market.
 - [Dune Analytics](https://dune.com/home) - Dune analytics is a platform that offers analytics for blockchain ecosystems.
 - [Ellisense](https://www.ellisense.com/) - Ellisense supports traders in making smarter choices when investing in foreign exchange (FX), cryptocurrencies, and stocks.
+- [Formo](https://formo.so/) - Wallet-based product analytics and onchain attribution platform for crypto and DeFi apps.
 - [L2BEAT](https://l2beat.com/scaling/tvl/) - L2BEAT is a website that provides information and research about how Ethereum scales using layer 2 technology.
 - [Laevitas](https://www.laevitas.ch/) - Get precise data for analyzing and trading cryptocurrency.
 - [LunarCrush](https://lunarcrush.com/) - LunarCrush is a platform that helps you understand and keep track of Crypto, NFTs, and Stocks on social media.
@@ -188,12 +180,8 @@
 - [OpenBB](https://openbb.co/) - Discover a Python terminal that combines data science and machine learning to enhance trading research.
 - [Parsec Finance](https://parsec.finance/) - Parsec Finance is a helpful platform that supports users in analyzing DeFi and NFT Pro activities.
 - [Plex](https://www.plexlabs.io/) - Plex is an online marketing technology platform.
-- [ROI Calculator](https://formo.so/tools/roi-calculator) - Estimate wallet acquisition expenses, revenue per wallet, and marketing returns.
 - [Santiment](https://santiment.net/) - Discover the best market information for over 2,500 cryptocurrencies using this platform, which includes on-chain and social metrics.
 - [Token Metrics](https://tokenmetrics.com/) - Discover a cutting-edge crypto research platform that uses advanced AI technology to transform data into valuable investment advice.
-- [Tracking Plan Generator](https://formo.so/tools/tracking-plan-generator) - Generate an install-ready event taxonomy for DeFi apps, wallets, and onchain products.
-- [UTM Generator](https://formo.so/tools/utm-generator) - Generate campaign links with source, medium, campaign, term, and content parameters for web3 acquisition.
-- [Wallet Lifetime Value Calculator](https://formo.so/tools/ltv-calculator) - Compute lifetime value per wallet using revenue, lifespan, and margin data.
 - [Zero Hash](https://zerohash.com/) - Settlement Utility is an API-based ecosystem of trading tools.
 
 ### Assemblers
