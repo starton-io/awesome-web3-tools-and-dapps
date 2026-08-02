@@ -236,6 +236,7 @@
 ### Blockchain Interoperability Tools
 - [Holograph](https://www.holograph.xyz/) - Our Multichain Tools help Web3 Builders easily transfer digital assets across different blockchain networks.
 - [Hyperlane](https://www.hyperlane.xyz/) - Hyperlane is a protocol that helps developers build applications for different chains using APIs and SDKs.
+- [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - Free embeddable non-custodial cross-chain swap widget powered by LI.FI, installable with one script tag.
 - [Socket Tech](https://www.socket.tech/) - Socket is a tool that allows developers to easily connect and interact with different blockchain networks.
 - [Succinct](https://www.succinct.xyz/) - Succinct allows you to safely read Ethereum data on different chains.
 
