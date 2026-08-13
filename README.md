@@ -145,6 +145,7 @@
 - [Money Legos](https://github.com/studydefi/money-legos) - Our DeFi protocol analyzer can analyze Ethereum ABIs, addresses, and Solidity interfaces.
 - [Rust Ethereum ABI](https://github.com/rust-ethereum/ethabi) - Analyze the ABI for encoding and decoding smart contract functions and results.
 - [WhatsABI](https://github.com/shazow/whatsabi#readme) - Guess ABIs easily with this web app. It can determine ABIs from an address using 4-byte JUMPI instructions.
+- [Solana Token Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when an SPL token price crosses a threshold, via public Jupiter API.
 
 ### Account Abstraction (ERC-4337) Bundlers
 - [Alchemy Rundler](https://github.com/alchemyplatform/rundler) - Introducing an open-source bundler called ERC-4337, which was developed by Alchemy using the Rust programming language.
