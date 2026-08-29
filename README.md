@@ -1464,6 +1464,7 @@
 - [Sablier](https://sablier.finance/) - A protocol that allows DAOs and businesses to make web3 payments in seconds.
 - [Superfluid](https://www.superfluid.finance/) - A streaming protocol for crypto payments that helps businesses manage subscriptions, salary payments, and rewards.
 - [Tres Finance](https://www.tres.finance/) - Manage and keep track of your web3 assets smartly using Tres Finance's tools.
+- [USDCtoFiat](https://usdctofiat.xyz) - Non-custodial Base USDC cash-out to Revolut, Monzo, Chime, Zelle, and other payment apps. SDK: `@usdctofiat/offramp` `cashout({ mode: "fast" | "best" })`.
 
 ### Web3 Prediction Markets
 - [Augur](https://www.augur.net/) - Augur is a prediction protocol that uses Ethereum and is not controlled by any central authority.
@@ -1479,6 +1480,7 @@
 - [Quicknode SDK](https://www.quicknode.com/guides/web3-sdks) - Quicknode is a tool for developing web3 applications.
 - [Starton](https://www.starton.com/) - Starton is a platform that provides developers with the most powerful and resilient tools for development, with a focus on performance.
 - [thirdweb](https://thirdweb.com/) - thirdweb is the top platform for developers who work with web3.
+- [@usdctofiat/offramp](https://www.npmjs.com/package/@usdctofiat/offramp) - TypeScript SDK to sell Base USDC for fiat in one call: `cashout({ mode: "fast" | "best" })`. Live 9.0.0.
 
 ### Web3 Security Competitions
 - [Capture the Ether](https://capturetheether.com/) - Capture the Ether is an exciting game where you explore the world of Ethereum smart contracts through hacking, all while increasing your knowledge of security.
