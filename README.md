@@ -1288,6 +1288,7 @@
 - [Fire](https://www.joinfire.xyz) - See what will go in and out of your wallet, before you commit.
 - [Kevlar](https://github.com/shresthagrawal/kevlar) - A nearby RPC proxy for Ethereum wallets that use proof of stake or post-merge.
 - [Pocket Universe](https://pocketuniverse.app?utm_source=alchemy&utm_medium=website&utm_campaign=dappstore) - Get Pocket Universe, a free tool that protects your assets while signing web3 transactions using your browser.
+- [NightFall Crypto Access Exit Check](https://github.com/do2006/nightfall-crypto-access-exit-check) - Read-only wallet offboarding verification for Safe permissions, token approvals, and residual on-chain access.
 - [Stelo Labs](https://stelolabs.com/) - Stelo is a tool that helps secure Web3 wallets.
 
 ### Web3 Achievements
