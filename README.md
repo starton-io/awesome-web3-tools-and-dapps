@@ -179,6 +179,7 @@
 - [OpenBB](https://openbb.co/) - Discover a Python terminal that combines data science and machine learning to enhance trading research.
 - [Parsec Finance](https://parsec.finance/) - Parsec Finance is a helpful platform that supports users in analyzing DeFi and NFT Pro activities.
 - [Plex](https://www.plexlabs.io/) - Plex is an online marketing technology platform.
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 - [Santiment](https://santiment.net/) - Discover the best market information for over 2,500 cryptocurrencies using this platform, which includes on-chain and social metrics.
 - [Token Metrics](https://tokenmetrics.com/) - Discover a cutting-edge crypto research platform that uses advanced AI technology to transform data into valuable investment advice.
 - [Zero Hash](https://zerohash.com/) - Settlement Utility is an API-based ecosystem of trading tools.
