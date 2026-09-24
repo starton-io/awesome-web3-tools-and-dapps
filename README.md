@@ -338,6 +338,7 @@
 
 ### Crypto Trading Tools
 - [DustSweeper](https://www.dustsweeper.xyz/) - Easily convert leftover small amounts of tokens into ETH with low transaction costs.
+- [GDEX](https://gdex.pro/) - Web-based multi-chain crypto trading terminal with copy trading and wallet analytics.
 
 ### Custody Solutions
 - [Anchorage Digital](https://www.anchorage.com/) - A safe system to manage digital assets for traders, holders, and compliance purposes.
