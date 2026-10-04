@@ -182,6 +182,7 @@
 - [Santiment](https://santiment.net/) - Discover the best market information for over 2,500 cryptocurrencies using this platform, which includes on-chain and social metrics.
 - [Token Metrics](https://tokenmetrics.com/) - Discover a cutting-edge crypto research platform that uses advanced AI technology to transform data into valuable investment advice.
 - [Zero Hash](https://zerohash.com/) - Settlement Utility is an API-based ecosystem of trading tools.
+- [FerimanEdge](https://ferimanedge.com/) - Rule-based crypto market-regime analytics for BTC, ETH and BNB with public regime states, methodology and published outcomes.
 
 ### Assemblers
 - [EVM Toolkit](https://quilt.github.io/etk/) - Discover powerful tools that allow you to easily create and analyze smart contract programs on the Ethereum Virtual Machine.
