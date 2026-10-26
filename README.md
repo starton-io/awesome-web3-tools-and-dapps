@@ -1455,6 +1455,7 @@
 - [XMTP](https://xmtp.com/) - XMTP is a messaging protocol that helps with decentralized communication for Web3.
 
 ### Web3 Payment Tools
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local CLI and MCP payment tools for AI agents, with owner-set limits and operation receipts on macOS Apple Silicon.
 - [Cask](https://www.cask.fi) - Cask is a system that handles money flows on the web without relying on a central authority.
 - [Lightning Network](https://github.com/lightningnetwork/lnd) - This network is decentralized and uses smart agreements to make Bitcoin payments happen instantly.
 - [Loop Crypto](https://www.loopcrypto.xyz/) - Our exclusive autopay feature doesn't require funds locking or any withdrawals. Enjoy true autopay without any hassles.
