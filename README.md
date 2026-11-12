@@ -337,6 +337,7 @@
 - [Recap](https://recap.io/en-US) - Recap is an app for calculating crypto taxes with a focus on privacy.
 
 ### Crypto Trading Tools
+- [Bitpont](https://www.bitpont.com/) - Non-custodial platform for token swaps, perpetual futures, cross-chain bridging and DeFi access.
 - [DustSweeper](https://www.dustsweeper.xyz/) - Easily convert leftover small amounts of tokens into ETH with low transaction costs.
 
 ### Custody Solutions
